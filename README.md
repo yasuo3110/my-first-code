@@ -1,1 +1,2 @@
 # my-first-code
+はじめてのコード
